@@ -1,3 +1,3 @@
 # lojavirtual
 
-texto alterado no trep
+texto alterado via git web
